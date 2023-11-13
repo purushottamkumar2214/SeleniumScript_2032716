@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author purus
+ *
+ */
+module java {
+}
