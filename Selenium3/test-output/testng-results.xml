@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-01T21:18:50 IST" name="Default suite" finished-at="2023-10-01T21:19:04 IST" duration-ms="14299">
+    <groups>
+    </groups>
+    <test started-at="2023-10-01T21:18:50 IST" name="Default test" finished-at="2023-10-01T21:19:04 IST" duration-ms="14299">
+      <class name="Selenium_Script.Fileupload_Script">
+        <test-method signature="file1()[pri:0, instance:Selenium_Script.Fileupload_Script@747edf66]" started-at="2023-10-01T21:18:50 IST" name="file1" finished-at="2023-10-01T21:19:04 IST" duration-ms="14265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- file1 -->
+      </class> <!-- Selenium_Script.Fileupload_Script -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

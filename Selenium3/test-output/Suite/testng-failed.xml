@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="MozillaTest(failed)">
+    <parameter name="browsername" value="Mozilla"/>
+    <classes>
+      <class name="Selenium_Script.MultiBrowser_Testing">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="Verifyvalidationmessage"/>
+        </methods>
+      </class> <!-- Selenium_Script.MultiBrowser_Testing -->
+    </classes>
+  </test> <!-- MozillaTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
