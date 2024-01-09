@@ -10,7 +10,7 @@ import org.openqa.selenium.interactions.Actions;
 public class DoubleClick_Script {
 
 	public static void main(String[] args) throws InterruptedException {
-		
+		//check the changes
 	/*	System.setProperty("webdriver.gecko.driver","D:\\selenium\\selenium2\\mozilla gecko driver\\geckodriver-v0.32.0-win64\\geckodriver.exe");
 		
 		WebDriver driver= new FirefoxDriver();
